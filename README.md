@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Davin P F</h1>
-<h3 align="center">A Fullstack Developer who wants to learn and is always curious!</h3>
-
-- 🔭 I’m currently studying at **SMK 1 Boyolangu**
-
-- 🌱 I’m currently learning **Backend Web**
+<h3 align="center">Hi, I'm Davin P F</h1>
 
 - 📫 How to reach me **davinpfbrn@gmail.com**
 
-- ⚡ Fun fact **Im curious about new things**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
