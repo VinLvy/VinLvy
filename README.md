@@ -1,11 +1,5 @@
 # Hi there 👋 I'm Davin!
 
-My personal portfolio showcasing full-stack development skills, projects, and a passion for Web3, built with Next.js, React, and Tailwind CSS.
-
----
-
-### About Me
-
 I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly web applications. I have solid experience in **PHP** and am currently deepening my understanding of **JavaScript** and frameworks like **React** and **Next.js**. I'm always eager to learn and explore new technologies, and I've developed a strong interest in **Web3, blockchain, and decentralized application development**.
 
 ---
