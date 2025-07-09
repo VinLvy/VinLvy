@@ -65,11 +65,13 @@ I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly w
   </a>
 </p>
 
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinlvy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vinlvy" />
-</p> -->
-
 ---
+
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinlvy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vinlvy" />
+</p> 
+
+
 
 ### Connect with Me
 
