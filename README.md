@@ -14,7 +14,7 @@ I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly w
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
