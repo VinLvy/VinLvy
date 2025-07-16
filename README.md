@@ -80,7 +80,7 @@ I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly w
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 
 * **Portfolio**: [D-Portfolio](https://d-portfolio-weld.vercel.app/)
 * **LinkedIn**: [Davin Putra Fibrian](https://www.linkedin.com/in/davin-p-f-0b00a12b7/)
@@ -89,7 +89,7 @@ I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly w
 
 ---
 
-### 📊 My GitHub stats
+## 📊 My GitHub stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinlvy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vinlvy" />
