@@ -76,6 +76,9 @@ I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly w
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" alt="figma" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="figma" width="40" height="40"/>
+  </a>
 </p>
 
 ---
