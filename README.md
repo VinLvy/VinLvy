@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I am an Informatics student and Full-Stack Developer dedicated to crafting modern, user-friendly applications. Driven by curiosity and a passion for innovation, I enjoy bridging the gap between traditional web development and emerging technologies. My focus lies in exploring the vast potential of Web3, blockchain, and AI automation to build solutions that are not only functional but also forward-looking.
+I am an **Informatics student and Full-Stack Developer** dedicated to crafting modern, user-friendly applications. Driven by curiosity and a passion for innovation, I enjoy bridging the gap between traditional web development and emerging technologies. My focus lies in exploring the vast potential of **Web3, blockchain, and AI automation** to build solutions that are not only functional but also forward-looking.
 
 ---
 
