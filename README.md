@@ -91,7 +91,7 @@ I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly w
 ## 🔗 Connect with Me
 
 * **Portfolio**: [D-Portfolio](https://d-portfolio-weld.vercel.app/)
-* **LinkedIn**: [Davin Putra Fibrian](https://www.linkedin.com/in/davinpfbrn/)
+* **LinkedIn**: [Davin P F](https://www.linkedin.com/in/davinpfbrn/)
 * **Email**: davinfibrian@gmail.com
 <!-- * **Instagram**: [@davin.fbrn](https://instagram.com/davin.fbrn) -->
 
