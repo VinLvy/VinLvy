@@ -63,6 +63,9 @@ I am an **Informatics student and Full-Stack Developer** dedicated to crafting m
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/>
+  </a>
   <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" width="40" height="40"/>
   </a>
