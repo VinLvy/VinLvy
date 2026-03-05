@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a **Full-Stack Developer** passionate about crafting modern, user-friendly web applications. I have solid experience in **PHP** and am currently deepening my understanding of **JavaScript** and frameworks like **React** and **Next.js**. I'm always eager to learn and explore new technologies, and I've developed a strong interest in **Web3, blockchain, and decentralized application development**.
+I am an Informatics student and Full-Stack Developer dedicated to crafting modern, user-friendly applications. Driven by curiosity and a passion for innovation, I enjoy bridging the gap between traditional web development and emerging technologies. My focus lies in exploring the vast potential of Web3, blockchain, and AI automation to build solutions that are not only functional but also forward-looking.
 
 ---
 
